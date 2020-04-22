@@ -827,8 +827,6 @@ body.show-nav .header {
     z-index: 2;
 
     border-radius: 50%;
-    border: 5px solid #fff;
-    box-shadow: 0 3px 6px rgba(0, 0, 0, .16);
 }
 
 .reviews__name {
